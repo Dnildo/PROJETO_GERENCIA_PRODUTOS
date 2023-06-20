@@ -1,2 +1,2 @@
-# PROJETO_GERNCIA_PRODUTOS
+# PROJETO_GERENCIA_PRODUTOS
 projeto desenvolvido com html, css e JavaScript para adicionar deletar produtos adicionado a um input.
